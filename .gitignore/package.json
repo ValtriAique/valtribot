@@ -1,0 +1,18 @@
+  "name": "valtribot",
+  "version": "1.0.0",
+  "description": "Valtri_Aique bot",
+  "main": "index.js",
+  "dependencies": {
+    "fs-extra": "^6.0.1",
+    "discord.js": "^11.3.2",
+    "lowdb": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Valtri_Aique"
+  ],
+  "author": "Valtri_Aique",
+  "license": "ISC"
